@@ -1,5 +1,6 @@
 Doel van de puzzel: Spelers moeten 5 ethernetstekkers in de juiste (willekeurig gegenereerde) poorten steken nadat de puzzel is geactiveerd door de hoofdcontroller (ESP32).
 1. Spelverloop (De 3 Fases)
+   
 • Fase 1: WACHTEN
 • Status: De puzzel is in rust.
 • LCD Scherm: Toont "Los andere puzzels op om te activeren".
